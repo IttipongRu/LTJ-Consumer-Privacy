@@ -14,7 +14,7 @@ For a better experience while using our Service, we may require you to provide u
 - Name
 - Email address
 - Gender
-- Location
+- Delivery Address
 - Profile pictures
 
 The information that we request will be retained by us and used as described in this Privacy Policy.
