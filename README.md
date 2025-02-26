@@ -14,7 +14,6 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to:
 - Name
-- Email address
 - Gender
 - Date of birth
 - Delivery Address
