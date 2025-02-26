@@ -10,18 +10,21 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ---
 
-**Information Collection and Use**
+**1. Information Collection and Use**
 
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to:
+
 - Name
 - Gender (You can select "Not Identified")
 - Date of birth
 - Delivery Address
 - Profile pictures
 
-The collection of **Date of Birth** is necessary to ensure compliance with legal regulations regarding age-restricted products. Certain products available on our platform may have age restrictions, and this information helps us prevent underage users from accessing restricted items.
+The collection of Date of Birth is necessary to ensure compliance with legal regulations regarding age-restricted products. Certain products available on our platform may have age restrictions, and this information helps us prevent underage users from accessing restricted items.
 
-The collection of **Gender** is used to analyze customer demographics and improve the service by offering tailored promotions, coupons, and special offers based on gender. Users can select **"Not Identified"** if they prefer not to specify their gender. This data helps us better understand our customer base and customize marketing strategies to provide relevant and personalized offers.
+Additionally, the collection of Date of Birth may be used for analysis purposes to offer tailored food promotions and discounts, including providing food coupons to specific age groups. This helps us create better promotional strategies for users based on their age, ensuring more relevant offers.
+
+The collection of Gender is used to analyze customer demographics and improve the service by offering tailored promotions, coupons, and special offers based on gender. Users can select "Not Identified" if they prefer not to specify their gender. This data helps us better understand our customer base and customize marketing strategies to provide relevant and personalized offers.
 
 The information that we request will be retained by us and used as described in this Privacy Policy.
 
@@ -29,7 +32,7 @@ The app uses third-party services that may collect information used to identify 
 
 ---
 
-**Cookies**
+**2. Cookies**
 
 Cookies are small data files that serve as unique anonymous identifiers. These are sent to your browser from the website you visit and stored on your device’s internal memory.
 
@@ -39,21 +42,22 @@ You have the option to accept or refuse these cookies and to know when a cookie 
 
 ---
 
-**Location Information**
+**3. Location Information**
 
 Some of our services may require location information transmitted from users' mobile devices. We only use this information within the scope necessary to provide our food ordering and delivery services within buildings.
 
 ---
 
-**Device Information**
+**4. Device Information**
 
 We collect certain information from your device in some cases. This data is used to enhance service quality and prevent fraudulent activities. Additionally, such information will not include any details that personally identify individual users.
 
 ---
 
-**Service Providers**
+**5. Service Providers**
 
 We may employ third-party companies and individuals for the following purposes:
+
 - To facilitate our Service
 - To provide the Service on our behalf
 - To perform Service-related functions
@@ -63,13 +67,13 @@ We want to inform users of this Service that these third parties may have access
 
 ---
 
-**Security**
+**6. Security**
 
 We value your trust in providing us with your Personal Information, and we strive to use commercially acceptable means to protect it. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure and reliable. While we take significant precautions, we cannot guarantee absolute security.
 
 ---
 
-**Children’s Privacy**
+**7. Children’s Privacy**
 
 This Service does not address individuals under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
@@ -77,7 +81,7 @@ If we discover that a child under 13 has provided us with personal information, 
 
 ---
 
-**Changes to This Privacy Policy**
+**8. Changes to This Privacy Policy**
 
 We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
@@ -85,8 +89,9 @@ We will notify you of any updates by posting the revised Privacy Policy on this 
 
 ---
 
-**Contact Us**
+**9. Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
 
-📧 **Email:** Mongkol.J@tcc-technology.com
+📧 Email: Mongkol.J@tcc-technology.com
+
