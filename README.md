@@ -1,6 +1,6 @@
-Privacy Policy
+**Privacy Policy**
 
-Introduction
+**Introduction**
 
 Our privacy policy will help you understand what information we collect at SOOK Delivery, how SOOK Delivery uses it, and what choices you have. SOOK Delivery built the SOOK Delivery app as a free app designed for users who order food within buildings. This SERVICE is provided by SOOK Delivery at no cost and is intended for use as is.
 
@@ -8,20 +8,27 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible on our website, unless otherwise defined in this Privacy Policy.
 
-Information Collection and Use
+---
+
+**Information Collection and Use**
 
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to:
 - Name
 - Email address
 - Gender
+- Date of birth
 - Delivery Address
 - Profile pictures
+
+The collection of **Date of Birth** is necessary to ensure compliance with legal regulations regarding age-restricted products. Certain products available on our platform may have age restrictions, and this information helps us prevent underage users from accessing restricted items.
 
 The information that we request will be retained by us and used as described in this Privacy Policy.
 
 The app uses third-party services that may collect information used to identify you. This application utilizes Firebase Crashlytics to monitor errors and technical issues. The collected data is anonymized and used solely to improve the quality and performance of the application.
 
-Cookies
+---
+
+**Cookies**
 
 Cookies are small data files that serve as unique anonymous identifiers. These are sent to your browser from the website you visit and stored on your device’s internal memory.
 
@@ -29,15 +36,21 @@ This Service does not explicitly use “cookies.” However, the app may integra
 
 You have the option to accept or refuse these cookies and to know when a cookie is being sent to your device. However, if you choose to refuse cookies, some portions of the Service may not function properly.
 
-Location Information
+---
+
+**Location Information**
 
 Some of our services may require location information transmitted from users' mobile devices. We only use this information within the scope necessary to provide our food ordering and delivery services within buildings.
 
-Device Information
+---
+
+**Device Information**
 
 We collect certain information from your device in some cases. This data is used to enhance service quality and prevent fraudulent activities. Additionally, such information will not include any details that personally identify individual users.
 
-Service Providers
+---
+
+**Service Providers**
 
 We may employ third-party companies and individuals for the following purposes:
 - To facilitate our Service
@@ -47,24 +60,32 @@ We may employ third-party companies and individuals for the following purposes:
 
 We want to inform users of this Service that these third parties may have access to your Personal Information. This is necessary for them to perform tasks assigned on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-Security
+---
+
+**Security**
 
 We value your trust in providing us with your Personal Information, and we strive to use commercially acceptable means to protect it. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure and reliable. While we take significant precautions, we cannot guarantee absolute security.
 
-Children’s Privacy
+---
+
+**Children’s Privacy**
 
 This Service does not address individuals under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
 If we discover that a child under 13 has provided us with personal information, we will immediately delete it from our servers. If you are a parent or guardian and you become aware that your child has provided us with personal information, please contact us so that we can take the necessary actions.
 
-Changes to This Privacy Policy
+---
+
+**Changes to This Privacy Policy**
 
 We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
 We will notify you of any updates by posting the revised Privacy Policy on this page. The changes become effective immediately after they are posted.
 
-Contact Us
+---
+
+**Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
 
-📧 Email: Mongkol.J@tcc-technology.com
+📧 **Email:** Mongkol.J@tcc-technology.com
