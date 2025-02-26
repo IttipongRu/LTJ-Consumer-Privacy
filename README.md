@@ -22,6 +22,8 @@ For a better experience while using our Service, we may require you to provide u
 
 The collection of **Date of Birth** is necessary to ensure compliance with legal regulations regarding age-restricted products. Certain products available on our platform may have age restrictions, and this information helps us prevent underage users from accessing restricted items.
 
+The collection of **Gender** is used to analyze customer demographics and improve the service by offering tailored promotions, coupons, and special offers based on gender. This data helps us better understand our customer base and customize marketing strategies to provide relevant and personalized offers.
+
 The information that we request will be retained by us and used as described in this Privacy Policy.
 
 The app uses third-party services that may collect information used to identify you. This application utilizes Firebase Crashlytics to monitor errors and technical issues. The collected data is anonymized and used solely to improve the quality and performance of the application.
