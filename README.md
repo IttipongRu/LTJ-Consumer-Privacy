@@ -44,7 +44,11 @@ You have the option to accept or refuse these cookies and to know when a cookie 
 
 **3. Location Information**
 
-Some of our services may require location information transmitted from users' mobile devices. We only use this information within the scope necessary to provide our food ordering and delivery services within buildings.
+Our services may require access to your location information transmitted from your mobile device. This location data is used strictly to determine delivery availability in your area — for example, to check whether food delivery service is available at your current building or location.
+
+We only access your location while the app is open and in use (foreground), and we do not track your location in the background. Your location data is not stored or shared, and it is used solely to enhance your experience with accurate and relevant service availability.
+
+You may deny access to your location in your device settings, but doing so may affect the ability to use certain features of the app that rely on delivery location validation.
 
 ---
 
