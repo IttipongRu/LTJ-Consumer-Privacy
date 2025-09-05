@@ -105,4 +105,5 @@ You can choose to **opt-out** of analytics tracking in your app settings, but op
 
 **10. Contact Us**
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us: \
+\
 📧 Email: [Mongkol.J@tcc-technology.com](mailto:Mongkol.J@tcc-technology.com)
