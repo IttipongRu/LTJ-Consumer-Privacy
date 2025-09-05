@@ -85,7 +85,7 @@ We will notify you of any updates by posting the revised Privacy Policy on this 
 ---
 
 **9. Customer Data Platform (CDP) and Analytics**
-To improve our Service and provide a personalized experience, SOOK Delivery uses a **Customer Data Platform (CDP)** and may assign a unique **Customer ID (UUID)** that links to your account. This data may include:
+To improve our Service and provide a personalized experience, SOOK Delivery uses a **Customer Data Platform (CDP)** and assigns a unique **Customer ID (UUID)** that links to your account. This data may include:
 
 * Which products you view most frequently
 * Which building or complex you browse orders from
@@ -99,7 +99,7 @@ This information is **linked to your account** and is used solely to:
 
 All data shared with third-party analytics providers (such as Platform Connect X) is **restricted to improving SOOK Delivery services** and cannot be used for other purposes.
 
-You can choose to **opt-out** of analytics tracking in your app settings, but opting out may limit personalization of offers and promotions.
+**Please note:** Users **cannot opt-out** of this analytics tracking.
 
 ---
 
