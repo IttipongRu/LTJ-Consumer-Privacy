@@ -1,4 +1,4 @@
-# **Privacy Policy – Updated**
+# **Privacy Policy **
 
 **Introduction**
 Our privacy policy helps you understand what information we collect at SOOK Delivery, how we use it, and the choices you have. SOOK Delivery built the SOOK Delivery app as a free app designed for users who order food within buildings. This SERVICE is provided by SOOK Delivery at no cost and is intended for use as is.
