@@ -94,20 +94,25 @@ We will notify you of any updates by posting the revised Privacy Policy on this 
 ---
 
 **9. Customer Data Platform (CDP) and Analytics**
-SOOK Delivery uses a **Customer Data Platform (CDP)** with a unique **Customer ID (UUID linked)** for each account. This data may include:
+
+SOOK Delivery uses a **Customer Data Platform (CDP)** with a unique **Customer ID (UUID)** assigned to each account for analytics and user experience improvement. This data may include:
 
 * Products you view most frequently
-* Building or complex you browse orders from
-* Search terms used most often
-* Menu items or categories you click most
+* Buildings or locations you browse from
+* Commonly used search terms
+* Menu items or categories you interact with the most
 
-**Key points:**
+**Data collection for analytics is only processed if you provide consent through the Reconsent screen within the app.**
 
-* Data is **linked to your account** and shared with **Platform Connect X** only to improve SOOK Delivery services.
-* Purpose: personalized recommendations, promotions, trend analysis, and app improvement.
-* Users **cannot opt-out** of this analytics tracking.
+**If you give consent** — your data may be used for:
 
-Firebase Crashlytics data is **not linked to users** and is used solely for app stability and performance.
+* Personalized recommendations and promotions
+* User behavior analysis to enhance the app experience
+* Product strategy and feature improvements
+
+**If you do not consent** — your behavioral data will **not be linked to your account**, and only essential operational data will be collected for basic app functionality.
+
+Firebase Crashlytics data remains **non-identifiable** and is used solely for app stability and performance monitoring.
 
 ---
 
