@@ -93,23 +93,30 @@ We will notify you of any updates by posting the revised Privacy Policy on this 
 
 ---
 
-**9. Customer Data Platform (CDP) and Analytics**
+### **9. Customer Data Platform (CDP) and Analytics**
 
-SOOK Delivery uses a Customer Data Platform (CDP) to improve app performance and user experience. The CDP collects two types of data:
+SOOK Delivery uses a Customer Data Platform (CDP) to improve app performance, user experience, and product offerings. The CDP collects the following types of data:
 
-* Behavioral tracking (postTracking): Anonymous usage data such as viewed products, pages, or categories, without linking to any user ID.
-* User identification (postIdentify): A one-time record created during registration, which includes a unique user ID (UUID) and year of birth. This data does not include your name, phone number, or any personally identifiable information.
+**Behavioral Tracking**
+Anonymous usage data regarding how you interact with the app, such as viewed products, pages, categories, features, or other app content. This data is collected only with your consent and is not linked to personally identifiable information unless you explicitly allow it.
 
-**All analytics data is processed only if you provide consent through the Reconsent screen within the app.**
+**User Identification**
+Information that may uniquely identify a user within the app, such as a UUID or other non-personally identifiable attributes provided during registration. This may include demographic information like age, gender, or preferences. Personally identifiable information, such as name, phone number, or email, is **not collected** through the CDP without your consent.
 
-If consent is given, the collected data may be used for:
+**Use of Data**
+If you provide consent through the in-app Reconsent screen, the collected data may be used for:
 
 * Understanding user behavior and improving app experience
 * Developing research and statistical insights for better services
-* Providing personalized recommendations or offers
+* Providing personalized recommendations or offers within the app
 
 Aggregated and anonymized data may also be shared with SOOK Delivery’s group companies for analytical purposes.
-If you do not consent, your behavioral data will remain anonymous and unlinked to your account, and only essential operational data will be processed.
+
+**Future Data Collection**
+As the app evolves, additional anonymous or non-personally identifiable data may be collected to enhance user experience and app performance. Any such data collection will be handled in accordance with this Privacy Policy and will **require your consent** before linking to your account or using it for personalized recommendations.
+
+**Consent Requirement**
+All analytics and personalized recommendations through the CDP are processed **only after the user provides explicit consent**. If you do not consent, all behavioral data will remain anonymous and unlinked to your account, and only essential operational data will be processed to maintain core app functionality.
 
 ---
 
