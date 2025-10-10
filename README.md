@@ -95,24 +95,21 @@ We will notify you of any updates by posting the revised Privacy Policy on this 
 
 **9. Customer Data Platform (CDP) and Analytics**
 
-SOOK Delivery uses a **Customer Data Platform (CDP)** with a unique **Customer ID (UUID)** assigned to each account for analytics and user experience improvement. This data may include:
+SOOK Delivery uses a Customer Data Platform (CDP) to improve app performance and user experience. The CDP collects two types of data:
 
-* Products you view most frequently
-* Buildings or locations you browse from
-* Commonly used search terms
-* Menu items or categories you interact with the most
+* Behavioral tracking (postTracking): Anonymous usage data such as viewed products, pages, or categories, without linking to any user ID.
+* User identification (postIdentify): A one-time record created during registration, which includes a unique user ID (UUID) and year of birth. This data does not include your name, phone number, or any personally identifiable information.
 
-**Data collection for analytics is only processed if you provide consent through the Reconsent screen within the app.**
+**All analytics data is processed only if you provide consent through the Reconsent screen within the app.**
 
-**If you give consent** — your data may be used for:
+***If consent is given,*** the collected data may be used for:
 
-* Personalized recommendations and promotions
-* User behavior analysis to enhance the app experience
-* Product strategy and feature improvements
+* Understanding user behavior and improving app experience
+* Developing research and statistical insights for better services
+* Providing personalized recommendations or offers
 
-**If you do not consent** — your behavioral data will **not be linked to your account**, and only essential operational data will be collected for basic app functionality.
-
-Firebase Crashlytics data remains **non-identifiable** and is used solely for app stability and performance monitoring.
+Aggregated and anonymized data may also be shared with SOOK Delivery’s group companies for analytical purposes.
+If you do not consent, your behavioral data will remain anonymous and unlinked to your account, and only essential operational data will be processed.
 
 ---
 
