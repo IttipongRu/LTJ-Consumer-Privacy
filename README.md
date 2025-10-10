@@ -102,7 +102,7 @@ SOOK Delivery uses a Customer Data Platform (CDP) to improve app performance and
 
 **All analytics data is processed only if you provide consent through the Reconsent screen within the app.**
 
-***If consent is given,*** the collected data may be used for:
+**If consent is given,** the collected data may be used for:
 
 * Understanding user behavior and improving app experience
 * Developing research and statistical insights for better services
